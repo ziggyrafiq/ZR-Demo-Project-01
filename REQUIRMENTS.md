@@ -17,12 +17,4 @@ Provide the means to seed the database with the following data:
 The API should follow the attached Open API spec. To view the spec in an interactive way you can use https://editor.swagger.io/. 
 There are 5 endpoints in total.
 
-### Evaluation
-
-You will be evaluated on providing a working API as well as basic code style, approach and correctness. There is no need to secure the API or worry about a production level setup. Running the app in debug mode is fine.
-
-### Submission
-
-Please provide your solution either in a publicly accessible Git repository (Github for example), or if you prefer a compressed archive that also contains your locally initialised Git folder (.git).  Make sure you include a README with details of how to run the app, including any build and seeding steps and scripts.
-
-Feel free to document any assumptions you made where the spec was unclear in a separate file.
+ 
